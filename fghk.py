@@ -1,3 +1,7 @@
 import customtkinter 
 import math
-app = customtkinter
+app = customtkinter.CTk()
+
+app.title('เครื่องพีทาโกรัส')
+
+main.loop()
